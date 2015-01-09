@@ -1,0 +1,49 @@
+
+
+body {
+  text-align: left;
+  //font-family: Georgia, Times, serif;
+  font-family: 'Merriweather', serif;
+  //font-size: 15px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #333;
+}
+
+p {
+  margin: 0 0 7px 0;
+}
+
+p.separa {
+  overflow: hidden;
+  display: block;
+  height: 1px;
+  border-top: 1px solid #904830;
+  margin: 20px 20%;
+}
+
+strong {
+  font-weight: bold;
+}
+
+h1, h3 {
+  padding: 6px 0 0 0;
+  color: #904830;
+}
+
+h1 {
+  font-size: 150%;
+}
+
+h3 {
+  font-size: 120%;
+}
+
+a {
+  text-decoration: none;
+  color: #904830;
+}
+
+a:hover {
+  color: #c00;
+}

@@ -1,15 +1,3 @@
-###
-# Compass
-###
-
-# Change Compass configuration
-# compass_config do |config|
-#   config.output_style = :compact
-# end
-
-###
-# Page options, layouts, aliases and proxies
-###
 
 # Per-page layout changes:
 #
@@ -28,24 +16,24 @@
 # proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
 #  :which_fake_page => "Rendering a fake page with a local variable" }
 
-###
-# Helpers
-###
+#
 
-# Automatic image dimensions on image_tag helper
-# activate :automatic_image_sizes
+PAGES_ROOT = File.join(__dir__, 'source/paginas')
+rootLength = PAGES_ROOT.length + 1
+extLength = '.html.md'.length + 1
+Dir[File.join(PAGES_ROOT, '**/*.md')].each do |page|
+  path = page[rootLength..-extLength]
+  template = "paginas/#{path}.html"
+  puts "proxy #{path} => #{template}"
+  proxy path, template
+  ignore template
+end
 
-# Reload the browser automatically whenever files change
-# configure :development do
-#   activate :livereload
-# end
-
-# Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+helpers do
+  def markdown(text)
+    Tilt['markdown'].new { text }.render unless text.nil?
+  end
+end
 
 set :css_dir, 'stylesheets'
 
@@ -56,13 +44,13 @@ set :images_dir, 'images'
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
-  # activate :minify_css
+  activate :minify_css
 
   # Minify Javascript on build
-  # activate :minify_javascript
+  activate :minify_javascript
 
   # Enable cache buster
-  # activate :asset_hash
+  activate :asset_hash
 
   # Use relative URLs
   # activate :relative_assets

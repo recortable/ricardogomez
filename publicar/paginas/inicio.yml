@@ -1,0 +1,15 @@
+---
+id: '1'
+name: inicio
+title: ''
+section: inicio
+head: ''
+content: |
+  ---
+end: ''
+extra: no, no las muestres
+params: 
+position: '001'
+created_on: 
+updated_on: '2009-11-03 18:39:47'
+main_image: inicio/lectora.jpg

@@ -1,0 +1,62 @@
+html {
+  background-color: #EFEFEF; /* #F0F0D8; */
+}
+
+
+#head {
+  height: 100px;
+}
+
+#logo {
+  width: 160px;
+  height: 100px;
+}
+
+#page_top {
+  border: 0;
+  padding: 0;
+  height: 29px;
+  background: url(../images/page-top.gif) no-repeat;
+}
+
+div#page {
+  width: 930px;
+  padding: 0;
+  margin: 20px auto;
+}
+
+#page_middle {
+  margin: 0;
+  padding: 0;
+  background: url(../images/page-middle.gif) repeat-y;
+}
+
+#page_bottom {
+  border: 0px;
+  margin: 0 0 0 3px;
+  height: 123px;
+  background: url(../images/page-bottom.gif) no-repeat;
+}
+
+#mainImage {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+#content {
+  margin: 0px 0 0 200px;
+  padding: 0 40px;
+}
+
+#menu {
+  float: left;
+  padding: 10px 10px 10px 30px;
+}
+
+#ricardogomez {
+  margin: 10px 0 40px 0;
+}
+
+#menu .item {
+  margin: 5px 0;
+}

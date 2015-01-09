@@ -1,0 +1,20 @@
+---
+id: '4'
+name: mislibros
+title: Libros y publicaciones
+section: mislibros
+head: "*Mis libros, primeros capítulos, algunos cuentos, sus ilustraciones, traducciones,
+  entrevistas asociadas, críticas...*"
+content: "%{color:blue}__Comencé a escribir \"literatura adulta\", ámbito en el que
+  obtuve varios premios. He publicado un par de novelas y relatos en ediciones personales
+  o colectivas, así como libros de divulgación científica. Pronto pasé a escribir
+  \"literatura infantil y juvenil\", aunque en ocasiones no entiendo muy bien dónde
+  está la frontera entre edades. Prefiero que los lectores sean quienes se consideren
+  adultos, jóvenes o niños.__%\r\n"
+end: ''
+extra: si, mostrar miniaturas
+params: 
+position: '001'
+created_on: '2007-10-31 20:43:08'
+updated_on: '2011-03-06 19:42:33'
+main_image: mislibros/libros_002.jpg
