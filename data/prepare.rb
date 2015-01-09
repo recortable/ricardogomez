@@ -127,7 +127,10 @@ class Images
     @pages = pages
     @images = Repo.load('image', path('att.csv'))
     puts "#{@images.all.size} images loaded."
+    process_images
+  end
 
+  def process_images
     dest = []
 
     images.all.each do |image|
@@ -151,6 +154,13 @@ class Images
     end
   end
 
+  def move_images(dest)
+    SECTIONS = ['inicio', 'websamigas', 'conferencias', 'paraleer', 'mislibros', 'premios', 'biografia',
+      'encuentros', 'matematicas', 'contacto', 'elsahara']
+    SECTIONS.each {|s| mkdir(File.join(dest, s)) }
+  end
+
+
   def build_index(file)
     File.open(file, 'w') do |file|
       file.write("# Imágenes\n\n")
@@ -171,4 +181,5 @@ end
 pagesRepo = Pages.new
 imagesRepo = Images.new(pagesRepo.pages)
 imagesRepo.build_index(path('../source/images_index.html.md'))
+imagesRepo.move_images(path('../publicar/imagenes'))
 #pagesRepo.export(path('../publicar/paginas'))
