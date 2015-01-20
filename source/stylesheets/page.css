@@ -1,10 +1,11 @@
 html {
-  background-color: #EFEFEF; /* #F0F0D8; */
+  background-color: #F8F5EF; /* #F0F0D8; */
 }
 
 
 #head {
-  height: 100px;
+  display: block; overflow: hidden;
+  padding-bottom: 30px;
 }
 
 #logo {

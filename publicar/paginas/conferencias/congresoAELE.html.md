@@ -5,7 +5,7 @@ imagen: ""
 ---
 * * *
 
-![](/attachments/0000/0989/Plumapiedad.jpg)
+![](/imagenes/conferencias/plumapiedad.jpg)
 
 **Una aclaración conveniente**
 
@@ -21,7 +21,7 @@ Que adolescentes entre los 15 y 17 años lean las mismas obras que niños entre 
 
 * * *
 
-![](/attachments/0000/0991/Plumapiedad.jpg)
+![](/imagenes/conferencias/991plumapiedad.jpg)
 
 **Primera sorpresa: EL DESTINATARIO**
 
@@ -71,7 +71,7 @@ Por ello, la literatura es tan poderosa. Por eso, muchos la temen. Por eso, hay 
 
 * * *
 
-![](/attachments/0000/1009/ojodenube_wordle.jpg)
+![](/imagenes/conferencias/ojodenube_wordle.jpg)
 
 (Imagen en wordle realizada por los alumnos de Juana)
 

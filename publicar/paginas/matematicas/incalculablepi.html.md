@@ -49,7 +49,7 @@ Los matemáticos pueden ser tercos, pero también ingeniosos. Hasta cierta époc
 
 Atención, porque dentro de poco aparecerá un «monstruo» matemático, pero no hay que calcular sobre él. Los matemáticos dedujeron un procedimiento para trabajar con polígonos con tantos lados como quisieran, aplicando fórmulas. Por ejemplo, Vieta descubrió que para obtener el valor de π utilizando un polígono de 1024 lados (que no es una circunferencia, pero se le aproxima bastante) hay que calcular el valor de:
 
-![](/attachments/0000/0688/pi1.jpg)
+![](/imagenes/matematicas/pi1.jpg)
 
 Trabajar con raíces cuadradas no era un plato agradable, sobre todo teniendo en cuenta que entonces no había calculadoras, pero los matemáticos tuvieron la esperanza de que, con paciencia, podrían aproximarse a π tanto como quisieran, ya que no encontraban una fracción mejor que 355/113. Trabajando con «monstruos» como el anterior, Vieta, en 1593, llegó hasta los diez decimales distintos. Todos estaban esperando que, a partir de un momento dado, los decimales se repitieran, que π fuera un decimal periódico. Si hubiera sido así, con ello habrían acabado el trabajo.
 
@@ -59,11 +59,11 @@ Poco después en 1615 el alemán Ludolf van Ceulen utilizó una fórmula parecid
 
 A partir de cierto momento se puso de moda buscar fórmulas para calcular π de maneras cada vez más sencillas, aunque eso supusiera hacer larguísimos cálculos.Así, en 1673, un tal Wallis encontró una fórmula elegante:
 
-![](/attachments/0000/0690/pi2.jpg)
+![](/imagenes/matematicas/pi2.jpg)
 
 Leibniz otra:
 
-![](/attachments/0000/0696/pi3.jpg)
+![](/imagenes/matematicas/pi3.jpg)
 
 Estas fórmulas eran fáciles de entender, pero aproximarse a π requería miles de cálculos durante miles y miles de horas robadas al sueño o a otras diversiones. Aunque los matemáticos no se rendían, soñando que en algún punto aparecerían decimales periódicos. En 1706, el inglés Machin calculó cien decimales. En 1717, el inglés Sharp calculó setenta y dos…
 
@@ -111,7 +111,7 @@ Es casi seguro que solo sabiendo esto podrías localizar el poema completo con a
 
 Existe un procedimiento curioso de calcular el valor de π con ayuda de un dardo, aunque requiere paciencia.
 
-![](/attachments/0000/0702/pi5.jpg)
+![](/imagenes/matematicas/pi5.jpg)
 
 El asunto consiste en dibujar en una cartulina un cuadrado y su circunferencia inscrita y en disparar el dardo al azar, contando cuántas veces cae dentro del círculo y cuántas en el espacio que hay entre el círculo y el cuadrado.
 

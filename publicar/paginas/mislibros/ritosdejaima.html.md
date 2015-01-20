@@ -39,7 +39,7 @@ La caravana de los días marcha, lenta y triste marcha. En el infinito crujen su
 
 _LIMAM BOISHA_
 
-![](/attachments/0000/1115/websahara3b.jpg)
+![](/imagenes/mislibros/websahara3b.jpg)
 
 * * *
 
@@ -207,5 +207,5 @@ Y cuando llega la hora de la partida, la madre sale con el hijo o la hija fuera 
 
 * * *
 
-![](/attachments/0000/1117/web_sahara2b.jpg)
+![](/imagenes/mislibros/web_sahara2b.jpg)
 

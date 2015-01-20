@@ -47,7 +47,7 @@ RG: Me apetecía…
 
 J: Eso no dice mucho en tu favor. La apetencia tiene que ver con el gusto, la gula o la codicia incluso. ¿Te das cuenta de la cantidad de libros ya escritos? Después de tres mil años de literatura, ¿crees poder decir algo nuevo? ¿Y piensas acaso que lo has conseguido?
 
-![](/attachments/0000/0544/cara.jpg)
+![](/imagenes/paraleer/cara.jpg)
 
 _Estaba claro que se trataba de un juicio. Sus palabras sonaban secas y hablaba rápido, como si desease acabar conmigo cuanto antes. Pero no había nadie detrás de mí esperando turno. En cambio, en otras ventanillas las colas de espera eran más o menos largas. Imaginé a fontaneros y deseé que les zurraran de lo lindo._
 
@@ -135,7 +135,7 @@ J: Muy seguro lo dices. Pero tienes más de cincuenta años. ¿Crees que te ser�
 
 RG: No sé, pero cuando comencé a escribir ni siquiera quería vivir de esto. Fue más adelante, después de publicados algunos libros, cuando decidí dejar mi trabajo anterior y dedicarme a escribir. Tengo claro que el día que no disfrute escribiendo me dedicaré a otra cosa. Bueno, eso pensaba antes de venir aquí, pero ahora no sé siquiera cuál es mi situación. Tampoco sé por qué hablamos de todo esto. El canon, otro trabajo… ¿Qué tiene que ver esto con la literatura? ¿Y por qué estoy aquí?
 
-![](/attachments/0000/0552/carab.jpg)
+![](/imagenes/paraleer/carab.jpg)
 
 _Mi interlocutor no respondió a ninguna de mis preguntas. Mientras tomaba notas sentí la garganta seca. Desconocía si en ese sitio, que no debía de ser ni cielo ni infierno, se sentían necesidades físicas, ni durante cuánto tiempo. Observé las mesas vecinas, algunas más nutridas que otras. Vi una, al fondo, con un funcionario desocupado. ¿Estaría aquello organizado por profesiones? Caí en la cuenta que el 092 era mi código de actividades económicas. ¡Resultaba increíble que el cielo se organizase con los mismos criterios que Hacienda! Me cupo la esperanza de que si fuera así pasarían buena factura a los defraudadores fiscales._
 
@@ -235,7 +235,7 @@ _No sabía a qué se refería pero ya estaba harto._
 
 RG: Escribir es un riesgo. En mis encuentros con lectores adolescentes se lo digo a quienes desean dedicarse a ello. Les invito a que escriban, pero también a que traten de ganarse la vida de otra manera, por pura libertad, por poder escribir lo que uno quiera y no vivir de encargos. Cuando uno empieza una novela, no sabe si la va a acabar. Cuando la termina, no sabe si la va a publicar. Cuando la publica no sabe si va a gustar. Aunque guste, no sabe si va a vender. Y, pasado el tiempo, no sabe si aunque se venda va a seguir estando orgulloso de ella.
 
-![](/attachments/0000/0554/carac.jpg)
+![](/imagenes/paraleer/carac.jpg)
 
 _Se produjo un largo silencio. Juan el apocalíptico tomó algunas notas y se me quedó mirando. Cruzó los dedos y puso los codos sobre la mesa. Pensé que de un momento a otro oiría su veredicto: “Salvado” o “Condenado”, aunque seguía sin saber qué era peor. Sus ojos glaciales musitaron algo que no esperaba._
 

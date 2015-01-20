@@ -47,5 +47,5 @@ Hace no mucho, Pedro Barbáchano, un chico que entonces tenía 12 años, me pidi
 
 Un día, no recuerdo dónde, encontré esto. ¡Me pareció un buen retrato y me encantó! Por suerte, la espiral ha crecido desde entonces.
 
-![](/attachments/0000/1109/fotoparabio.jpg)
+![](/imagenes/biografia/fotoparabio.jpg)
 

@@ -85,7 +85,7 @@ Seguramente adivinarán que cuando propongo una sana alimentación basada en la 
 
 “¡Pero si no hay tiempo!”, argumentarán los profesores de literatura. Cierto, no lo hay si pretendemos que los escolares se sienten a la mesa, se anuden la servilleta al cuello y devoren los platos que les sirvamos, ordenados cronológicamente, o por género o por curriculum, dándonos al final las gracias por tan pantagruélica comida.
 
-![](/attachments/0000/0852/tapas3-peq.jpg)
+![](/imagenes/conferencias/tapas3_peq.jpg)
 
 Quizá haya una solución, la tercera que antes anunciaba, que es salir de tapas. Algo que consiste en pasear por lugares emblemáticos de la ciudad literaria (una casa de comidas antigua, un bar irlandés, un bistrot francés, un caravanserai árabe, un paladar cubano, una taberna americana, el comedor de un hammam de mujeres…) y dar a probar pequeños bocados de grandes manjares gastronómicos. Una salida de tapeo no supone hacer un número determinado de degustaciones, y puede estar comprendida entre una y no más de cinco o siete, dependiendo del tiempo. No es conveniente volver a casa con ardor de estómago ni mucho menos borracho, ya que el exceso adormila las sensaciones.
 
@@ -171,7 +171,7 @@ Muchas gracias, buen apetito y mejor conversación.
 
 * * *
 
-![](/attachments/0000/0854/tapas_b.jpg)
+![](/imagenes/conferencias/tapas_b.jpg)
 
 **Procedencia**
 

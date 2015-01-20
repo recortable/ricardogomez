@@ -5,7 +5,7 @@ imagen: ""
 ---
  **1. MI CUMPLEAÑOS**
 
-![](/attachments/0000/1157/IMG_2879.JPG)
+![](/imagenes/paraleer/img_2879.jpg)
 
 Mi nombre es Samuel Relloso Pascual Govantes Valenzuela Peres Villamayor Sáez Rosales, aunque nadie lo utiliza completo.
 
@@ -27,7 +27,7 @@ Escribir es más fácil de lo que pensaba antes de comenzar este cuaderno. Se tr
 
 **2. YO**
 
-![](/attachments/0000/1159/IMG_2877.JPG)
+![](/imagenes/paraleer/img_2877.jpg)
 
 Hace mucho, por lo menos 60 meses, yo creía que los mayores podían adivinar los pensamientos de los niños. Pensaba que cuando te decían “vamos a comer” era porque sabían que tenías hambre, y si te decían “a dormir” era porque te morías de sueño.
 
@@ -57,7 +57,7 @@ Ahora, necesito más esfuerzos para espantarlo.
 
 **2. EL CINE**
 
-![](/attachments/0000/1161/IMG_2874.JPG)
+![](/imagenes/paraleer/img_2874.jpg)
 
 Me gusta mucho ir al cine. Esta tarde, mi padre fue temprano a comprar las entradas y, como hace poco fue mi cumpleaños, pidió la fila siete y los asientos 2, 4, 6 y 8. Yo, claro, me senté en el 2. Me quedé con mi entrada como recuerdo y la pegué en el Álbum de las Cosas Interesantes. Luego pensé que lo bueno habría sido ir el mismo día de mi cumpleaños: día 7, mes 2, fila 7, asiento 2. Lo tendré en cuenta para el año que viene.
 
@@ -77,7 +77,7 @@ Me gusta el cine porque en la pantalla se ven muchas cosas que no se ven en la r
 
 **9. EL CAJÓN DE LAS COSAS INTERESANTES**
 
-![](/attachments/0000/1163/IMG_2878.JPG)
+![](/imagenes/paraleer/img_2878.jpg)
 
 En realidad, ya he llenado cajón y medio con cosas interesantes. Calculo que de seguir a este ritmo, cuando tenga 50 años habré llenado 18 cajones con cosas interesantes, aunque no sé si encontraré tantas como para llenar 18 cajones.
 

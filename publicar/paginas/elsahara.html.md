@@ -17,7 +17,7 @@ Los saharauis tienen también sus **poetas y escritores**. Si quieres conocer m�
 
 ¡Y un proyecto apasionante: **el Bubisher**!
 
-![](/attachments/0000/0666/bubisher_ni_a.jpg)
+![](/imagenes/elsahara/bubisher_ni_a.jpg)
 
 El **BIBLIOBÚS SAHARAUI** , el **Bubisher** , fue presentado en sociedad en septiembre de 2008, lleva cuatro años rodando por el desierto cargado de libros donados por editoriales generosas, y ya tiene su página en la que aparecen noticias relacionadas con su travesía:
 
@@ -31,13 +31,13 @@ Con el tiempo, en 2011, se inauguró la biblioteca fija **El Nido del Bubisher**
 
 La biblioteca, los bibliobuses y el personal que trabaja en ellos se nutre a partir de pequeñas aportaciones económicas. Cualquier grano de arena llena el desierto. Si quieres colaborar, puedes hacerlo a través de la página **www.bubisher.com**. ¡Gracias!
 
-![](/attachments/0000/0865/Publicidad_bubisher_Peonza_v5b.jpg)
+![](/imagenes/elsahara/publicidad_bubisher_peonza_v5b.jpg)
 
 * * *
 
 **Ritos de jaima**
 
-![](/attachments/0000/0866/Cub_RitosJaima_peq.jpg)
+![](/imagenes/elsahara/cub_ritosjaima_peq.jpg)
 
 Con precisión de arquero, Limam Boisha rasga con sus versos la membrana del tiempo en “Ritos de jaima”.
 

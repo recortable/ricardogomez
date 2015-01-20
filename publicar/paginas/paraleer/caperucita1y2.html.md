@@ -47,7 +47,7 @@ imagen: "paraleer/caperucita_erre_lobo.jpg"
 
 Un chico enfadado
 
-![](/attachments/0000/0798/caperucita_erre_alex.jpg)
+![](/imagenes/paraleer/caperucita_erre_alex.jpg)
 
 La casa en que comienza esta historia estaba medio envuelta en las sombras de árboles cercanos. Eran las ocho de la tarde en el bosque.
 
@@ -155,7 +155,7 @@ Eran, claramente, disparos de escopeta.
 
 Una gallina aterrorizada
 
-![](/attachments/0000/0800/caperucita_erre_abuela.jpg)
+![](/imagenes/paraleer/caperucita_erre_abuela.jpg)
 
 ¡Disparos! Alex sabía que a esas horas los cazadores no solían andar disparando. Los sonidos venían de la montaña, cargados de ecos, pero no pudo precisar más. Ni muy cerca ni demasiado lejos.
 

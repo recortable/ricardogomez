@@ -33,6 +33,6 @@ _Como siempre, ha sido un gusto trabajar con la ilustradora, en este caso **Mar�
 
 Aquí, Erre, paseando por el bosque donde he situado esta historia, un bosque que conozco bien…
 
-![](/attachments/0000/1119/caperucitaerre.jpg)
+![](/imagenes/mislibros/caperucitaerre.jpg)
 
 * * *

@@ -7,7 +7,7 @@ imagen: "paraleer/separador_cuentos2.jpg"
 
 Algunos de mis cuentos están recogidos en libros como **Tras el cristal** o **Cuentos crudos**. Otros han sido publicados en diferentes momentos y están ya libres de derechos. Los ofrezco ahora juntos, y completos (a petición de algunos lectores). Añado, por aquello del reconocimiento por los premios, y no sin recato, algunos poemas:
 
-![](/attachments/0000/1141/web_leyendo2c.jpg)
+![](/imagenes/paraleer/web_leyendo2c.jpg)
 
 [> ‘Los poemas de la arena’](http://www.ricardogomez.com/ver/paraleer/arena-relato-fragmento)
 
@@ -31,7 +31,7 @@ Algunos de mis cuentos están recogidos en libros como **Tras el cristal** o **C
 
 .
 
-![](/attachments/0000/1033/Separador_fragmentos2.jpg)
+![](/imagenes/paraleer/separador_fragmentos2.jpg)
 
 ...
 
@@ -41,7 +41,7 @@ Algunos de mis cuentos están recogidos en libros como **Tras el cristal** o **C
 
 > **Cormac McCarthy: “Sutree”**
 
-![](/attachments/0000/1113/luna2.jpg)
+![](/imagenes/paraleer/luna2.jpg)
 
 # 
 

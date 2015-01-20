@@ -107,7 +107,7 @@ El perro que buscaba estrellas. Edelvives. Zaragoza, 2011.
 
 **BIOGRAFÍA**
 
-![](/attachments/0000/0848/autofoto.JPG)
+![](/imagenes/conferencias/autofoto.jpg)
 
 Siempre hay un antes. Ahora, escribo. Llevo unos doce años dedicado a ello, tratando de publicar tanto en literatura infantil y juvenil como en adultos, si es que tal división existe. Antes de eso, dediqué otros tres a probar qué significaba eso de escribir un cuento, una novela o un poema, simultaneando esta escritura iniciática con la docencia. Antes de esos balbuceos literarios, dediqué muchos años a dar clases y a cultivar placeres que sigo manteniendo: leer todo lo que puedo, escuchar música, disfrutar de una buena película, viajar, cuidar de mis amigos. Antes de eso, estudié e hice lo que todo el mundo por aquellos tiempos: descubrir el mundo, discernir entre la realidad y la ficción, desmitificar personas y personajes que engrandecí de niño. Antes de eso, viví en el territorio de los juegos y de los primeros descubrimientos literarios, al ritmo que aprendía a leer. Antes de eso debí crecer y aprender que uno debe levantarse si tropieza y cae, y que de poco sirve llorar. Antes de eso, nací. Mis padres me dieron el nombre que tengo porque vine al mundo un 7 de febrero, san Ricardo. No fue por falta de imaginación. Es que no me esperaban. De alguna manera, el mío fue un comienzo literario. Después vino todo lo demás.
 

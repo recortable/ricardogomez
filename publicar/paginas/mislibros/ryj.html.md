@@ -17,7 +17,7 @@ Sin duda, David Rubín fue una ayuda en los procesos finales. Entendió a la per
 
 * * *
 
-![](/attachments/0000/0648/RyJ_pag1.jpg)
+![](/imagenes/mislibros/ryj_pag1.jpg)
 
 * * *
 

@@ -5,7 +5,7 @@ imagen: ""
 ---
 * * *
 
-![](/attachments/0000/1019/Libreta_un_chico_diferente.jpg).
+![](/imagenes/matematicas/libreta_un_chico_diferente.jpg).
 
 **Un chico diferente** es un libro recién publicado por Edelvives.
 
@@ -17,7 +17,7 @@ Quise enriquecer el libro con un apartado específico en esta página web, con p
 
 * * *
 
-![](/attachments/0000/1021/Libreta_problemitas.jpg).
+![](/imagenes/matematicas/libreta_problemitas.jpg).
 
 _Hace mucho tiempo (unos 30 años, todavía no habían llegado los ordenadores), proponía a mis alumnos problemas como el que aparece abajo. Aún los guardo y me propongo sacar uno cada semana. Acepto respuestas al correo electrónico._
 
@@ -29,11 +29,11 @@ Las ilustraciones están hechas por un viejo amigo, pintor, ilustrador y fotógr
 
 1.
 
-![](/attachments/0000/1043/escanear0002bpeq.jpg)
+![](/imagenes/matematicas/escanear0002bpeq.jpg)
 
 2.
 
-![](/attachments/0000/1045/escanear0006bpeq.jpg)
+![](/imagenes/matematicas/escanear0006bpeq.jpg)
 
 .
 
@@ -41,7 +41,7 @@ Las ilustraciones están hechas por un viejo amigo, pintor, ilustrador y fotógr
 
 * * *
 
-![](/attachments/0000/1025/Libreta_conferencias.jpg)
+![](/imagenes/matematicas/libreta_conferencias.jpg)
 
 .
 
@@ -73,7 +73,7 @@ _El 1 de marzo de 2008 fui invitado por la **Editorial Alfaguara** y por la **So
 
 * * *
 
-![](/attachments/0000/1023/Libreta_textos_matematicos.jpg).
+![](/imagenes/matematicas/libreta_textos_matematicos.jpg).
 
 En algunos libros de divulgación, especialmente en los cuatro volúmenes de Textos divulgativos editados por **Anaya** aparecen algunos artículos sobre matemáticas. He aquí algunos de ellos:
 

@@ -23,7 +23,7 @@ Pronto me di cuenta de que había muchos fragmentos de “La vida es sueño” q
 
 Al tiempo, decidí que había elementos narrativos que formaban parte de una estructura literaria de distinto propósito: los devaneos mitológicos, el papel de la astrología, las concesiones al poder religioso y político de la época, la propia estructura de la obra teatral, destinada a representarse en tres jornadas… No es que estos elementos carecieran de importancia para situar la obra en su época, sino que hoy serían tratados de una forma muy diferente. Obsesionado por encontrar claves para esa posible adaptación, leí en ese tiempo la versión de _La Ilíada_, de Baricco, en la que el autor italiano se propone re-contar esa obra clásica desproveyéndola del papel jugado por los dioses, “como si fuera una historia humana”.
 
-![](/attachments/0000/0412/vidasueño_1_peq.jpg)
+![](/imagenes/mislibros/vidasueño_1_peq.jpg)
 
 Decidí pues utilizar una técnica mixta, en la que se mezclasen la narración y la versificación. Reservé la primera para describir los movimientos espaciotemporales de los personajes, teniendo en cuenta que los hipotéticos lectores no “ven” a esos personajes sobre un escenario sino a través de una página impresa. Y preservé los versos para los diálogos de los protagonistas, intentando que, en ese encuentro con ellos, los lectores los imaginaran desnudos en el escenario.
 

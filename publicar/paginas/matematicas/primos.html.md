@@ -35,7 +35,7 @@ Antes de responder esta pregunta, es interesante contar una anécdota para saber
 
 También durante la Segunda Guerra Mundial, a alguien se le ocurrió una idea genial: pedir ayuda a los indios dakota para codificar mensajes secretos. El asunto era sencillo. Alguien dictaba a un indio dakota una orden como, por ejemplo, «MAÑANA LLEGA EL BARCO CON PROVISIONES». El indio la traducía a su idioma y la dictaba por teléfono. Pongamos por caso, se leía como «DAQ-LABA’NAATAN-DULUQ-CHEETAQ». Al otro lado del teléfono había otro indio dakota que escuchaba el mensaje y lo volvía a traducir al idioma original.
 
-![](/attachments/0000/0694/primos1.jpg)
+![](/imagenes/matematicas/primos1.jpg)
 
 ¡Era asombrosamente simple! Ya no importaba que el enemigo escuchara los mensajes, porque solo un indio dakota podía descifrados. La ventaja del lenguaje dakota era triple: solo había indios dakota en Estados Unidos, era un idioma que nunca se había escrito y solo lo conocían los dakota. Esto es lo que se llama un mensaje público: no importa que lo oiga la gente porque casi nadie lo entendería.
 

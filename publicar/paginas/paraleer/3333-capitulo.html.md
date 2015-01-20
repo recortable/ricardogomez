@@ -45,7 +45,7 @@ Hay chicos desobedientes.
 
 * * *
 
-![](/attachments/0000/1169/3333eva.JPG)
+![](/imagenes/paraleer/3333eva.jpg)
 
 **2: OTRO DÍA ABURRIDO**
 

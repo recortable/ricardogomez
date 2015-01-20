@@ -27,7 +27,7 @@ Pensemos ahora en el universo. ¿Es infinito? Sabemos que es enorme. Tanto que l
 
 El asunto no es nada fácil de explicar. Un genio tan grande como Galileo se rindió a la hora de estudiar el infinito incluso dentro de los números. Y en cuanto a los límites del universo, tampoco resulta sencillo de entender. El asunto está en la manera en que nosotros vemos el universo. Somos demasiado pequeños, demasiado torpes, para ver que el universo es ilimitado, pero no infinito.
 
-![](/attachments/0000/0708/infinito2.jpg)
+![](/imagenes/matematicas/infinito2.jpg)
 
 Pensemos en un escarabajo parlanchín e inteligente que diera vueltas sobre una esfera rocosa tan grande como la Tierra. Comienza a caminar, a caminar y a caminar… ¿Cuándo acaba su viaje? Nunca, incluso aunque vuelva al punto de partida. Ese escarabajo podrá seguir caminando siempre. Al cabo de millones de años de viaje, pensará: «¿Y cuándo acaba esto?». Seguirá durante mucho más tiempo y llegará a la conclusión: «Esto es infinito». Pero nosotros sabemos que no, que esa roca no es infinita, aunque el camino es ilimitado… Algo parecido ocurre cuando nosotros pensamos en el universo.
 

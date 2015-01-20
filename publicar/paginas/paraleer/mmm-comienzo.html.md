@@ -43,7 +43,7 @@ Nunca sospeché que aquella carpeta daría lugar a esta historia.
 
 - \* \*
 
-![](/attachments/0000/0778/postal1_peq_thumb.jpg)
+![](/imagenes/paraleer/postal1_peq_thumb.jpg)
 
 Se trataba de un poema, sí, y no estaba firmado. Lo encontrarán íntegro a partir de la página 43. Lo he trascrito entero, aunque confieso que he hecho algunos arreglos de estilo que no sé si mejoran o empeoran la versión original. Sospecho que está redactado por una mujer, quizá llamada Elena, pero tal vez se trate de un nombre supuesto. Si está viva, o aparecen sus herederos, harán bien en reclamar los derechos de autor de al menos la mitad de este libro.Lo primero que vi cuando llegué a casa es que el papel estaba en peor estado de lo que había notado en el primer examen. Era de mala calidad, y después de sesenta años los dobleces habían causado daños irreversibles en algunas líneas; en otras zonas, la humedad o el moho desvanecían la tinta. La caligrafía resultaba uniforme en las primeras páginas y más dubitativa a medida que avanzaba.
 

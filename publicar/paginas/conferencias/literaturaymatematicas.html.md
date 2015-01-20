@@ -7,7 +7,7 @@ _Conferencia leída el 1 de marzo de 2008 en la Facultad de Ciencias de Santande
 
 * * *
 
- ![](/attachments/0000/0380/sello_galois.jpeg)
+ ![](/imagenes/conferencias/sello_galois.jpeg)
 
 En la fría madrugada del 30 de mayo de 1832, un joven entra en un bosque de las afueras de París. Se ha levantado muy temprano a pesar de que la víspera estuvo escribiendo hasta altas horas de la noche, a la luz de un candil, con las piernas envueltas en una manta. Aún no ha cumplido los veintiún años, dos días antes ha sido liberado de la cárcel y mientras trata de orientarse en la neblina afianza su presentimiento de que va a morir. Por eso, se consuela con la idea de que la noche anterior haya dejado escrito un testamento y varias cartas para sus amigos. Una hora más tarde yace en el suelo con una bala en su abdomen. Es recogido varias horas después por un transeúnte, y morirá al día siguiente, de una peritonitis.
 
@@ -39,7 +39,7 @@ En mis charlas literarias suelo decir que la literatura es una forma privilegiad
 
 En mis clases de matemáticas también insistía en lo evidente: que las matemáticas son otra forma de ver el mundo. Proporciona una visión en la que están implicadas categorías, cantidades, relaciones, simetrías, homomorfismos, tendencias, probabilidades, certezas e indefiniciones. Es evidente que el uso de las herramientas que a lo largo de la historia han proporcionado las matemáticas nos han permitido vender ovejas, construir pirámides y rascacielos, conocer la estructura del átomo o viajar a otros planetas. Pero a veces se olvida que las matemáticas son además un producto cultural. Que, al igual que otros logros, han sido conseguidos por hombres y mujeres que han dedicado años a su estudio; que su desarrollo ha atravesado por vaivenes políticos y filosóficos; que entre los matemáticos ha habido rencillas, secretos, envidias, devociones, pasiones, y que todos, absolutamente todos los logros matemáticos tienen tras de sí décadas o siglos de especulación, de aproximación y de intentos fallidos… Valdría la pena estudiar matemática aunque las matemáticas no tuvieran ninguna utilidad práctica, de la misma manera que no tiene utilidad extasiarse ante una pintura, una sonata o una escultura.
 
-![](/attachments/0000/0414/noria.jpg)
+![](/imagenes/conferencias/noria.jpg)
 
 Quizá haya que pensar que la utilidad intrínseca de la matemática es también una soga que se ata a su cuello. En la escuela primaria, apenas los niños han atisbado en qué consiste la adición, se ven sometidos a la tortura de sumar cantidades llevando y sin llevar, como si en eso les fuera la vida, y muchos de ellos acaban la etapa utilizando (aunque a veces, sin dominar) las operaciones básicas, pero desconociendo cuáles son los fundamentos de un sistema de numeración posicional, y mucho menos los esfuerzos culturales para dotarse de tal sistema de numeración y de los algoritmos que empleamos. Y otro tanto se puede decir de la educación secundaria; se pretende que los alumnos dominen las operaciones con enteros para poder utilizarlas con los racionales, lo que a su vez abrirá la puerta al manejo de los complejos, y de las sucesiones, los límites, las derivadas y las integrales, lo que, ente otras cosas, les permitirá saltar la barrera de la selectividad. Este fue el proceso que siguió la persona de quien antes les hablaba, que desconocía qué era pi. Dado que esta persona es casi coetánea mía, no hay que echar la culpa a la LOGSE. El problema es más antiguo y más grave.
 

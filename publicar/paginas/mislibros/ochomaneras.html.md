@@ -17,7 +17,7 @@ El libro cuenta con una **Presentación** de **Juan Pablo Hernández Carvajal** 
 
 (...)
 
-![](/attachments/0000/0530/8_maneras_SM_C.jpg)
+![](/imagenes/mislibros/8_maneras_sm_c.jpg)
 
 Jordi conocía muy bien la situación de la ciudad (Medellín). En 2001, un año después de conocernos, el autor visitó la ciudad como escritor invitado al Juego Literario de Medellín. En aquella ocasión tuvo encuentros con jóvenes lectores en escuelas, bibliotecas y teatros. Conoció de cerca la realidad de la ciudad y la difícil situación de los jóvenes: estigmatización y falta de oportunidades en los ámbitos educativo, cultural y laboral. Las bandas de jóvenes delincuentes eran comunes en barrios y colegios. Durante uno de sus encuentros con jóvenes, estos confesaron a Jordi que ese día habían decidido no llevar armas al colegio para no “calentar” la visita del escritor, ya que en el encuentro coincidían muchachos de diferentes bandas.
 

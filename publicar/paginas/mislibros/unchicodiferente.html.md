@@ -19,65 +19,65 @@ Si quieres leer los primeros capítulos…
 
 * * *
 
-![](/attachments/0000/0883/chico_otras_cosas2.jpg)
+![](/imagenes/mislibros/chico_otras_cosas2.jpg)
 
-![](/attachments/0000/0935/chico_factoriales.jpg)
+![](/imagenes/mislibros/chico_factoriales.jpg)
 
-![](/attachments/0000/0937/chico_calculadora_bestial.jpg)
+![](/imagenes/mislibros/chico_calculadora_bestial.jpg)
 
-![](/attachments/0000/0939/chico_simetrias.jpg)
+![](/imagenes/mislibros/chico_simetrias.jpg)
 
-![](/attachments/0000/0941/chico_montanas.jpg)
+![](/imagenes/mislibros/chico_montanas.jpg)
 
-![](/attachments/0000/0945/chico_1089.jpg)
+![](/imagenes/mislibros/chico_1089.jpg)
 
-![](/attachments/0000/0943/chico_complicado.jpg)
+![](/imagenes/mislibros/chico_complicado.jpg)
 
-![](/attachments/0000/0947/chico_sera_verdad.jpg)
+![](/imagenes/mislibros/chico_sera_verdad.jpg)
 
-![](/attachments/0000/0949/chico_sellos.jpg)
+![](/imagenes/mislibros/chico_sellos.jpg)
 
-![](/attachments/0000/0951/chico_piramide.jpg)
+![](/imagenes/mislibros/chico_piramide.jpg)
 
-![](/attachments/0000/0955/chico_dinero_tonto.jpg)
+![](/imagenes/mislibros/chico_dinero_tonto.jpg)
 
-![](/attachments/0000/0957/chico_periodos.jpg)
+![](/imagenes/mislibros/chico_periodos.jpg)
 
-![](/attachments/0000/0959/chico_chiste_binario.jpg)
+![](/imagenes/mislibros/chico_chiste_binario.jpg)
 
-![](/attachments/0000/0961/chico_numeros_amigos.jpg)
+![](/imagenes/mislibros/chico_numeros_amigos.jpg)
 
-![](/attachments/0000/0963/chico_capicuas.jpg)
+![](/imagenes/mislibros/chico_capicuas.jpg)
 
-![](/attachments/0000/0967/chico_luna_cocina.jpg)
+![](/imagenes/mislibros/chico_luna_cocina.jpg)
 
-![](/attachments/0000/0965/chico_estrellas_pentagonales.jpg)
+![](/imagenes/mislibros/chico_estrellas_pentagonales.jpg)
 
-![](/attachments/0000/0969/chico_cual_es_mayor.jpg)
+![](/imagenes/mislibros/chico_cual_es_mayor.jpg)
 
-![](/attachments/0000/0973/chico-pequeno_grande.jpg)
+![](/imagenes/mislibros/chico_pequeno_grande.jpg)
 
-![](/attachments/0000/0975/chico_intrigas.jpg)
+![](/imagenes/mislibros/chico_intrigas.jpg)
 
-![](/attachments/0000/0977/chico_cuadrados_orden3.jpg)
+![](/imagenes/mislibros/chico_cuadrados_orden3.jpg)
 
-![](/attachments/0000/0979/chico_suelos.jpg)
+![](/imagenes/mislibros/chico_suelos.jpg)
 
-![](/attachments/0000/0983/chico_limeriks.jpg)
+![](/imagenes/mislibros/chico_limeriks.jpg)
 
-![](/attachments/0000/1121/lunula.jpg)
+![](/imagenes/mislibros/lunula.jpg)
 
-![](/attachments/0000/1123/metro.jpg)
+![](/imagenes/mislibros/metro.jpg)
 
-![](/attachments/0000/1125/2525.jpg)
+![](/imagenes/mislibros/2525.jpg)
 
-![](/attachments/0000/1127/senora_fibonacci.jpg)
+![](/imagenes/mislibros/senora_fibonacci.jpg)
 
-![](/attachments/0000/1129/rectangulos.jpg)
+![](/imagenes/mislibros/rectangulos.jpg)
 
-![](/attachments/0000/1131/primoono.jpg)
+![](/imagenes/mislibros/primoono.jpg)
 
-![](/attachments/0000/1135/chico_poligonosymas.jpg)
+![](/imagenes/mislibros/chico_poligonosymas.jpg)
 
-![](/attachments/0000/1133/delibros.jpg)
+![](/imagenes/mislibros/delibros.jpg)
 

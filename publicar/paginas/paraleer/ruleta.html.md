@@ -11,7 +11,7 @@ LUCÍA LLEGÓ A LA CONSULTA MEDIA HORA ANTES DE LA CITA, urgida por el superstic
 
 # **Cómo y por qué escribí “Ruleta rusa”**
 
-![](/attachments/0000/0550/mano1.jpg)
+![](/imagenes/paraleer/mano1.jpg)
 
 _Mi carrera literaria, si es que lo mío es una carrera literaria, comenzó con la escritura de cuentos. Ya había cumplido sobradamente los cuarenta, había leído tantos libros como mi tiempo libre me había dejado y sentí el deseo de escribir. No sé cómo son las experiencias ajenas, pero dudo que alguien que no haya escrito jamás nada se siente un día ante una hoja en blanco y diga “Voy a escribir una novela”. Lo más probable es que diga: “Voy a escribir un cuento” o “Voy a escribir un poema”. Como he podido comprobar más adelante (y tampoco hay que ser muy perspicaz, y ni siquiera es preciso ser escritor) una novela requiere una energía, una concentración y un tiempo que yo entonces ni imaginaba. Y, con el propósito de escribir un cuento, me senté a escribir._
 

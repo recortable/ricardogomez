@@ -6,6 +6,7 @@
     <!-- Always force latest IE rendering engine or request Chrome Frame -->
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <%# http://hellohappy.org/beautiful-web-type/ %>
+    <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700' rel='stylesheet' type='text/css'>
     <!-- Use title if it's in the page YAML frontmatter -->
     <title><%= current_page.data.titulo || "Ricardo Gómez" %></title>
@@ -16,7 +17,9 @@
 
   <body class="<%= page_classes %>">
     <div id="page">
-      <div id="page_top"></div>	<div id="page_middle">
+      <div id="page_top"></div>
+
+      <div id="page_middle">
         <%= partial 'layouts/menu' %>
         <div id="content">
           <div id="head">
@@ -26,14 +29,15 @@
 
           <% unless current_page.data.imagen.nil? %>
             <div id="mainImage">
-              <%= current_page.data.imagen.nil? %>
+              <%= image_tag ('/imagenes/' + current_page.data.imagen) %>
             </div>
           <% end %>
-
-          <%= yield  %>
+          <article><%= yield  %></article>
         </div> <!-- content -->
         <div class="spacer">&nbsp;</div>
       </div>
+      <!-- page_middle -->
+
       <div id="page_bottom"></div>
     </div>
   </body>

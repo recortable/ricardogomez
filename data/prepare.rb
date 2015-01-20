@@ -1,3 +1,4 @@
+require 'fileutils'
 require 'csv'
 require 'yaml'
 require 'reverse_markdown'
@@ -15,10 +16,36 @@ def mkdir(path)
   Dir.mkdir(path) unless File.exist?(path)
 end
 
-TILDES = {'a' => 'à', 'e' => 'é', 'i' => 'í', 'o' => 'ó', 'u' => 'ú'}
+def write(file, content, meta = nil)
+  File.open(file, 'w') do |file|
+    if meta
+      file.write("---\n")
+      meta.each do |key, value|
+        val = value ? value.gsub(/[\n]+/, '') : ''
+        file.write("#{key}: \"#{val}\"\n")
+      end
+      file.write("---\n")
+    end
+    file.write(content)
+  end
+end
+
+
+SECTIONS = ['inicio', 'websamigas', 'conferencias', 'paraleer', 'mislibros', 'premios', 'biografia',
+  'encuentros', 'matematicas', 'contacto', 'elsahara', 'otras']
+def create_sections(dest)
+  SECTIONS.each {|s| mkdir(File.join(dest, s)) }
+end
+
+
 def parameterize(string)
-  string = string.downcase.gsub(' ','_').gsub('-', '_')
-  #TILDES.each {|k, v| string.gsub!(v, k) }
+  string.downcase.gsub(' ','_').gsub('-', '_')
+end
+
+TILDES = {'a' => 'à', 'e' => 'é', 'i' => 'í', 'o' => 'ó', 'u' => 'ú'}
+def clean_path(string)
+  string = string.downcase.gsub('_', '-')
+  TILDES.each {|k, v| string.gsub!(v, k) }
   string
 end
 
@@ -59,62 +86,79 @@ class Pages
 
   def initialize
     @pages = Repo.load('page', path('pages.csv'))
+    pages.all.each do |page|
+      page['path'] = build_path(page)
+    end
   end
 
-  def export(output)
+  def export(images, output)
     mkdir(output)
+    create_sections(output)
+
+    replaces = {}
+    images.all.each {|i| replaces[i['source_path']] = i['dest_path']}
 
     pages.all.each do |page|
-      path = prepare_path(page, output)
-      write_template(page, File.join(output, "#{path}.html.md"))
-      write_data(page, File.join(output, "#{path}.yml"))
+      puts "Preparando: #{page['path']}"
+
+      meta = {
+        titulo:       page['title'],
+        subtitulo:    page['head'],
+        imagen:       page['main_image']
+      }
+      content = clean_markdown(replace_image_paths(page['content'], replaces))
+
+      path = clean_path("#{page['path']}.html.md")
+      write(File.join(output, path), content, meta)
+      #write(File.join(output, "#{page['path']}.yml"), YAML.dump(page))
+
     end
   end
 
-  def prepare_path(page, output)
-    path = page["section"]
+  def write_redirect_data(file)
+    ndx = {}
+    pages.all.each {|p| ndx[p['path']] = clean_path(p['path']) }
+    write(file, YAML.dump(ndx))
+  end
+
+
+  def dump(file)
+    write(File.join(__dir__, 'pages.yml'), YAML.dump(pages.all))
+  end
+
+  def build_index(file)
+    ndx = {}
+    pages.all.each {|page| ndx[page['path']] = page['title']}
+
+    content = ndx.keys.sort.map {|k| "| #{k} | #{ndx[k]} |"}.join("\n")
+    write(file, "# Páginas\n\n#{content}")
+  end
+
+  private
+  def build_path(page)
     if !blank?(page["name"]) && page["name"] != page["section"]
-      dir = File.join(output, page['section'])
-      mkdir(dir)
-      path = "#{path}/#{page["name"]}"
-    end
-    path
-  end
-
-  def write_template(page, file)
-    puts "Procesando: #{file}"
-    meta = {
-      titulo:       page['title'],
-      subtitulo:    page['head'],
-      imagen:       page['main_image']
-    }
-
-    File.open(file, 'w') do |file|
-      file.write("---\n")
-      meta.each do |key, value|
-        val = value ? value.gsub(/[\n]+/, '') : ''
-        file.write("#{key}: \"#{val}\"\n")
-      end
-      file.write("---\n")
-      file.write(render(page))
+      path = "#{page["section"]}/#{page["name"]}"
+    else
+      page["section"]
     end
   end
 
-  def write_data(page, file)
-    File.open(file, 'w') do |file|
-      file.write(YAML.dump(page))
-    end
-  end
-
-  def render(page)
-    md = RedCloth.new(page['content'])
+  def clean_markdown(content)
+    md = RedCloth.new(content)
     html = md.to_html.to_s.gsub(/[\n\t]+/, '')
     ReverseMarkdown.convert html
   end
 
-  def dump(file)
-    File.open(File.join(__dir__, 'pages.yml'), 'w') do |file|
-      file.write(YAML.dump(pages.all))
+  def replace_image_paths(content, replaces)
+    content.gsub(/\/attachments\/0000\/[^!)]+/) do |path|
+      match = path['attachments/0000/'.length + 1..-1]
+      replace = replaces[match]
+      if replace.nil?
+        puts "ERROR: #{match} REPLACE NOT FOUND."
+        "ERROR (imagen no encontrada): #{match}"
+      else
+        "/imagenes/#{replace}"
+      end
     end
   end
 end
@@ -154,32 +198,53 @@ class Images
     end
   end
 
-  def move_images(dest)
-    SECTIONS = ['inicio', 'websamigas', 'conferencias', 'paraleer', 'mislibros', 'premios', 'biografia',
-      'encuentros', 'matematicas', 'contacto', 'elsahara']
-    SECTIONS.each {|s| mkdir(File.join(dest, s)) }
-  end
 
+  def move_images(src, dest)
+    create_sections(dest)
 
-  def build_index(file)
-    File.open(file, 'w') do |file|
-      file.write("# Imágenes\n\n")
-      cols = ['id', 'source_path', 'dest_path', 'page_title']
-      images.all.each do |image|
-        row = cols.map {|c| "#{c[0..2]}:#{image[c]}"}
-        render = row.map {|i| "| #{i}"}.join(' ')
-        file.write("#{render}\n")
+    moves = 0
+    errors = 0
+    images.all.each do |image|
+      img_src = File.join(src, image['source_path'])
+      img_dest = File.join(dest, image['dest_path'])
+
+      if File.exist?(img_src)
+        if File.exist?(img_dest)
+          puts "ERROR dest exists: #{img_dest} // #{image}"
+          errors += 1
+        else
+          #puts "MOVE IMAGE #{img_src} => #{img_dest}"
+          FileUtils.mv(img_src, img_dest)
+          moves += 1
+        end
+      else
+        if !File.exists?(img_dest)
+          puts "ERROR image src not found: #{img_src} // #{image}"
+          errors +=1
+        end
       end
     end
+    puts "Moved #{moves}, errors #{errors}"
+  end
+
+  def build_index(file)
+    cols = ['id', 'source_path', 'dest_path', 'page_title']
+    output = images.all.map do |image|
+      row = cols.map {|c| "#{c[0..2]}:#{image[c]}"}
+      row.map {|i| "| #{i}"}.join(' ')
+    end.join("\n")
+    write(file, "# Imágenes\n\n#{output}")
   end
 
   def image_path(id)
-    "0000/" + "0" * (4 - id.length) + id
+    "0" * (4 - id.length) + id
   end
 end
 
 pagesRepo = Pages.new
 imagesRepo = Images.new(pagesRepo.pages)
-imagesRepo.build_index(path('../source/images_index.html.md'))
-imagesRepo.move_images(path('../publicar/imagenes'))
-#pagesRepo.export(path('../publicar/paginas'))
+imagesRepo.build_index(path('../source/lista/imagenes.html.md'))
+imagesRepo.move_images(path('../0000'), path('../publicar/imagenes'))
+pagesRepo.export(imagesRepo.images, path('../publicar/paginas'))
+pagesRepo.build_index(path('../source/lista/index.html.md'))
+pagesRepo.write_redirect_data(path('redirects.yml'))

@@ -13,7 +13,7 @@ Yo sigo, después de tantos años, orgulloso de esta primera Elena…
 
 * * *
 
-![](/attachments/0000/1143/mmm_fondo.jpg)
+![](/imagenes/paraleer/mmm_fondo.jpg)
 
 CUANDO CANTARON LOS PRIMEROS GALLOS, Elena llevaba ya rato observando la lechosa claridad del alba, que se colaba en la habitación por las contraventanas abiertas. Había dormido con todos los sentidos pendientes del amanecer de ese día aborrecible, señalado en el calendario desde dos semanas atrás. Si fuera por ella, no se levantaría nunca más, pero hacía tiempo que no vivía por sí misma. Iría a la capital otra vez, aunque quizá hoy ya no la dejaran regresar.
 

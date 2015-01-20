@@ -17,7 +17,7 @@ _“Sebastian es un adolescente madrileño que vive solo con su madre. Su afici�
 
 Discursivamente, Gómez se sitúa en la línea de los relatos publicados últimamente, y que hemos comentado en el blog, opta por una escritura que se complejiza y que alterna discursos diferentes. Adivina:
 
-![](/attachments/0000/1177/jij_gemma.png)
+![](/imagenes/paraleer/jij_gemma.png)
 
 Y además, capítulos que narran hechos de espacios, personajes diferentes marcados por cambio de tipografía.
 

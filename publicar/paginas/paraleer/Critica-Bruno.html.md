@@ -5,7 +5,7 @@ imagen: "paraleer/bruno_interior.jpg"
 ---
 Se trata de una historia fantástica, que ocurre en escenarios reales. Bruno, el protagonista, es un niño normal que vive en una ciudad cuyas calles pueden recorrerse con facilidad. Lo que diferencia Bruno de otros niños es su afición por descubrir cosas diferentes en sus trayectos cotidianos, que se toma como un trabajo casi detectivesco.
 
-![](/attachments/0000/0358/Folder.jpg)
+!>ERROR (imagen no encontrada): 0358/Folder.jpg!
 
 Con estas claves podemos entender el descubrimiento de una casa misteriosa, que aparece en una calle de su ciudad. Cuando entra en la casa se mira en el espejo y empiezan los problemas: allí encuentra un libro (Alicia en el país de las Maravillas) y se lo lleva a su casa. Regresa otra vez y se duerme. Cuando vuelve a su casa descubre que ha sido suplantado por un doble. Ese doble vive en su casa, va al colegio, está con sus amigos y amigas…
 
@@ -13,7 +13,7 @@ La angustia es tal que Bruno tiene que huir y vivir como un vagabundo. Incluso t
 
 Un manuscrito en clave le permitirá resolver el asunto. La solución está en el espejo de la entrada de la casa, que solo refleja algunas cosas, y comprueban que Bruno se está quedando borroso. La solución consiste en atraer al doble de Bruno, llevarle ante el espejo y liberar a los dos, que al final serán uno solo.
 
-![](/attachments/0000/0360/Daños_thumb.jpg)
+!>ERROR (imagen no encontrada): 0360/Daños\_thumb.jpg!
 
 El interés por el libro está garantizado para los jóvenes lectores que se inician en la lectura de obras fantásticas. Y les aporta una cierta calidad literaria, sin recurrir a los tópicos del cine para jóvenes. El autor sabe mantener la tensión hasta el final, sin que el desenlace resulte artificioso. Maneja con habilidad las situaciones fantásticas y las de aventuras (el manuscrito en clave).
 

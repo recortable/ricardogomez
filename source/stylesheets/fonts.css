@@ -3,17 +3,17 @@
 body {
   text-align: left;
   //font-family: Georgia, Times, serif;
+  /*font-family: 'Merriweather', serif;*/
   font-family: 'Merriweather', serif;
-  //font-size: 15px;
   font-size: 14px;
-  line-height: 22px;
+  line-height: 26px;
   color: #333;
 }
 
 p {
   margin: 0 0 7px 0;
 }
-
+p img { float: left; margin: 0 1em 1em 0; }
 p.separa {
   overflow: hidden;
   display: block;
@@ -32,7 +32,8 @@ h1, h3 {
 }
 
 h1 {
-  font-size: 150%;
+  font-size: 46px;
+  line-height: 60px;
 }
 
 h3 {
