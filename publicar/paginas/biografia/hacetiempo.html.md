@@ -1,6 +1,6 @@
 ---
 titulo: "Hace tiempo..."
-subtitulo: "*(Premio Nacional de Poesía "Pedro Iglesias Caballero")*"
+subtitulo: "*(Premio Nacional de Poesía \"Pedro Iglesias Caballero\")*"
 imagen: "biografia/caracol1.png"
 ---
 * * *

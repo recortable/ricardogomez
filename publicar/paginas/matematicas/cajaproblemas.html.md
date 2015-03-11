@@ -5,11 +5,14 @@ imagen: ""
 ---
 * * *
 
-Estos problemas se los proponía a mis alumnos hace más de 30 años. No eran obligatorios. Los pinchaba en un corcho y esperaba respuestas.
+Estos problemas se los proponía a mis alumnos hace más de 30 años. No eran
+obligatorios. Los pinchaba en un corcho y esperaba respuestas.
 
-Algunos necesitan ciertos cálculos, pero otros están basados en la **¡Inspiración ajá!** de la que habla Martin Gardner.
+Algunos necesitan ciertos cálculos, pero otros están basados en la
+**¡Inspiración ajá!** de la que habla Martin Gardner.
 
-Los dibujos son de mi viejo amigo **Antonio Varas** , pintor, fotógrafo y profesor de Dibujo. ¡Qué tiempos!
+Los dibujos son de mi viejo amigo **Antonio Varas** , pintor, fotógrafo y
+profesor de Dibujo. ¡Qué tiempos!
 
 * * *
 
@@ -61,8 +64,8 @@ Los dibujos son de mi viejo amigo **Antonio Varas** , pintor, fotógrafo y profe
 
 * * *
 
-    
-    
+
+
 
 * * *
 
@@ -74,8 +77,8 @@ Los dibujos son de mi viejo amigo **Antonio Varas** , pintor, fotógrafo y profe
 
 * * *
 
-    
-    
+
+
 
 * * *
 

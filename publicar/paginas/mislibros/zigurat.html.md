@@ -5,9 +5,12 @@ imagen: "mislibros/zigurat.jpg"
 ---
  **Argumento:**
 
-Namri es hijo de un rey destronado. Ahora, en toda Babilonia gobierna Hammurabi y el destino de Namri va a cambiar súbitamente. El joven príncipe va a tener que tomar muchas decisiones para sobrevivir.
+Namri es hijo de un rey destronado. Ahora, en toda Babilonia gobierna
+Hammurabi y el destino de Namri va a cambiar súbitamente. El joven príncipe
+va a tener que tomar muchas decisiones para sobrevivir.
 
-Ayúdale a elegir y decide cuál va a ser su vida. Dependiendo de la elección, unas vidas serán breves; algunas, terribles; otras, llenas de experiencias…
+Ayúdale a elegir y decide cuál va a ser su vida. Dependiendo de la elección,
+unas vidas serán breves; algunas, terribles; otras, llenas de experiencias…
 
 * * *
 

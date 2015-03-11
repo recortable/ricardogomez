@@ -1,13 +1,26 @@
 ---
-titulo: ""Mi homenaje" a Darwish"
+titulo: "\"Mi homenaje\" a Darwish"
 subtitulo: "*Cuatro poemas, leídos en homenaje a Mahmmud Darwish en el Acto celebrado por la Casa Árabe de Madrid, el 6 de octubre de 2008.*"
 imagen: "conferencias/340x.jpg"
 ---
-_Hace tiempo, cuando escribí **Los poemas de la arena** , tuve ocasión de asomarme al inmenso cajón de perlas que es la poesía árabe. Una amiga, la filóloga María Teresa Olszewska, filóloga árabe, me orientó y me facilitó bibliografía para escribir esa novela, para imaginarme a los personajes recordando y leyendo poemas árabes, desde los muallaqat preislámicos a las canciones populares, hasta llegar a los poemas reinvidicativos de Darwish, Tawfiq Zayyad, Isa Al-Nauri, Nizzar Kabbani…_
+_Hace tiempo, cuando escribí **Los poemas de la arena** , tuve ocasión de
+asomarme al inmenso cajón de perlas que es la poesía árabe. Una amiga, la
+filóloga María Teresa Olszewska, filóloga árabe, me orientó y me facilitó
+bibliografía para escribir esa novela, para imaginarme a los personajes
+recordando y leyendo poemas árabes, desde los muallaqat preislámicos a las
+canciones populares, hasta llegar a los poemas reinvidicativos de Darwish,
+Tawfiq Zayyad, Isa Al-Nauri, Nizzar Kabbani…_
 
-En mi ignorancia de entonces (¡y en la de ahora!) leer aquella colección de libros supuso una experiencia conmovedora, porque el pulso del corazón de la poesía es idéntico en todos los idiomas. Cuando me invitaron a leer algunos poemas de Darwish en la Casa Árabe sentí un profundo regocijo, como si a alguno de los protagonistas de mi novela le hubieran conmutado la pena de desierto y le hubieran invitado a leer en aquel escenario.
+En mi ignorancia de entonces (¡y en la de ahora!) leer aquella colección de
+libros supuso una experiencia conmovedora, porque el pulso del corazón de la
+poesía es idéntico en todos los idiomas. Cuando me invitaron a leer algunos
+poemas de Darwish en la Casa Árabe sentí un profundo regocijo, como si a
+alguno de los protagonistas de mi novela le hubieran conmutado la pena de
+desierto y le hubieran invitado a leer en aquel escenario.
 
-Elegí cuatro poemas breves. Tres, en el que aparece el llanto por la tierra y los compatriotas heridos, muertos o desterrados. Otro más lírico, más universal e igualmente conmovedor. Hélos aquí, como una pequeña muestra…
+Elegí cuatro poemas breves. Tres, en el que aparece el llanto por la tierra y
+los compatriotas heridos, muertos o desterrados. Otro más lírico, más
+universal e igualmente conmovedor. Hélos aquí, como una pequeña muestra…
 
 * * *
 
@@ -131,7 +144,8 @@ mis labios.
 
 .
 
-_Del diwan **Te quiero o no te quiero** , Traducido por Manuel Jiménez Lucena._
+_Del diwan **Te quiero o no te quiero** , Traducido por Manuel Jiménez
+Lucena._
 
 * * *
 
@@ -173,5 +187,6 @@ _Traducido por María Luisa Prieto._
 
 ![](/imagenes/conferencias/regalo_casaarabe.jpg)
 
-_Regalo de la Casa Árabe. Serigrafía “Mémoire”, por Amina Benbouchta. Año 2007._
+_Regalo de la Casa Árabe. Serigrafía “Mémoire”, por Amina Benbouchta. Año
+2007._
 

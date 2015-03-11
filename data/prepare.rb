@@ -1,8 +1,14 @@
+require 'word_wrap'
 require 'fileutils'
 require 'csv'
 require 'yaml'
 require 'reverse_markdown'
 require_relative 'RedCloth-3.0.4/init'
+
+def wrap_lines(s, width=78)
+  #s.gsub(/(.{1,#{width}})(\s+|\Z)/, "\\1\n")
+  s.wrap(width)
+end
 
 def blank?(string)
   string.nil? || string.empty?
@@ -22,6 +28,7 @@ def write(file, content, meta = nil)
       file.write("---\n")
       meta.each do |key, value|
         val = value ? value.gsub(/[\n]+/, '') : ''
+        val.gsub!(/"/, '\"')
         file.write("#{key}: \"#{val}\"\n")
       end
       file.write("---\n")
@@ -78,7 +85,31 @@ class Repo
   end
 end
 
+module PreparePage
+  MISSING = { 'amadis' => 'Adaptaciones',
+              'lucanor' => 'Adaptaciones',
+              'perro' => 'Edelvives',
+              'caperucita' => 'Edelvives',
+              'unchicodiferente' => 'Edelvives',
+              'juegos' => 'Edelvives'}
 
+  def self.prepare(page)
+    if child?(page)
+      page['path'] = "#{page["section"]}/#{page["name"]}"
+      if page['section'] == 'mislibros'
+          page['extra'] = MISSING[page['name']] if blank?(page['extra'])
+          page['path'] = "mislibros/#{page['extra']}/#{page['name']}"
+          puts "LIBROS: #{page['path']}"
+        end
+    else
+      page['path'] = page["section"]
+    end
+  end
+
+  def self.child?(page)
+    !blank?(page["name"]) && page["name"] != page["section"]
+  end
+end
 
 # id,name,title,section,head,content,end,extra,params,position,created_on,updated_on
 class Pages
@@ -86,9 +117,7 @@ class Pages
 
   def initialize
     @pages = Repo.load('page', path('pages.csv'))
-    pages.all.each do |page|
-      page['path'] = build_path(page)
-    end
+    pages.all.each {|page| PreparePage.prepare(page) }
   end
 
   def export(images, output)
@@ -130,23 +159,15 @@ class Pages
     ndx = {}
     pages.all.each {|page| ndx[page['path']] = page['title']}
 
-    content = ndx.keys.sort.map {|k| "| #{k} | #{ndx[k]} |"}.join("\n")
+    content = ndx.keys.sort.map {|k| "| [#{k}](/#{k}) | #{ndx[k]} |"}.join("\n")
     write(file, "# Páginas\n\n#{content}")
   end
 
   private
-  def build_path(page)
-    if !blank?(page["name"]) && page["name"] != page["section"]
-      path = "#{page["section"]}/#{page["name"]}"
-    else
-      page["section"]
-    end
-  end
-
   def clean_markdown(content)
     md = RedCloth.new(content)
     html = md.to_html.to_s.gsub(/[\n\t]+/, '')
-    ReverseMarkdown.convert html
+    wrap_lines ReverseMarkdown.convert(html)
   end
 
   def replace_image_paths(content, replaces)
@@ -242,9 +263,9 @@ class Images
 end
 
 pagesRepo = Pages.new
-imagesRepo = Images.new(pagesRepo.pages)
-imagesRepo.build_index(path('../source/lista/imagenes.html.md'))
-imagesRepo.move_images(path('../0000'), path('../publicar/imagenes'))
-pagesRepo.export(imagesRepo.images, path('../publicar/paginas'))
-pagesRepo.build_index(path('../source/lista/index.html.md'))
-pagesRepo.write_redirect_data(path('redirects.yml'))
+#imagesRepo = Images.new(pagesRepo.pages)
+#imagesRepo.build_index(path('../source/lista/imagenes.html.md'))
+#imagesRepo.move_images(path('../0000'), path('../publicar/imagenes'))
+#pagesRepo.export(imagesRepo.images, path('../publicar/paginas'))
+#pagesRepo.build_index(path('../source/lista/index.html.md'))
+#pagesRepo.write_redirect_data(path('redirects.yml'))

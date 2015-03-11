@@ -6,8 +6,27 @@ body {
   /*font-family: 'Merriweather', serif;*/
   font-family: 'Merriweather', serif;
   font-size: 14px;
-  line-height: 26px;
-  color: #333;
+  line-height: 23px;
+  color: #222;
+}
+
+article { margin-right: 40px; }
+
+article h1, article h2, article h3, article h4 {
+  margin: 0; padding: 0;
+  font-weight: 400;
+  line-height: 1.2em;
+}
+article h1 { font-size: 21px; line-height: 24px; margin: 2em 0 1em 0; }
+article h1:first-child { margin-top: 0; }
+
+article p a:only-child {
+  display: block;
+  margin-bottom: 2em;
+}
+
+article hr {
+  color: #904830;
 }
 
 p {

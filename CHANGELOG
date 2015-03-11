@@ -1,0 +1,29 @@
+
+
+INICIO
+- Que se pueda cambiar la imágen de inicio (sustituirla por otra del mismo tamaño) 850x650px aprox
+- Posible icono para acceso a blog
+
+
+
+
+# HOWTO
+ruby data/prepare # setup
+middleman s #server
+
+# TODO
+
+- Dividir libros en grupos
+- Añadir los libros como página hija
+- Enlaces simbólicos para evitar proxies
+
+# CHANGELOG
+
+## 20 Enero 2015
+- wrap long lines
+
+## 9 Enero 2015
+
+- Migración de datos
+- Estilos y páginas
+- Script de importación
